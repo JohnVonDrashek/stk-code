@@ -1,5 +1,7 @@
 # Gamerzilla
 
+*Last Updated: 2025-12-29*
+
 Achievement integration assets for the Gamerzilla open-source achievement system.
 
 ## Purpose

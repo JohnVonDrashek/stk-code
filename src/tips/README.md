@@ -1,5 +1,7 @@
 # tips
 
+*Last Updated: 2025-12-29*
+
 Loading screen tips management for SuperTuxKart.
 
 ## Purpose

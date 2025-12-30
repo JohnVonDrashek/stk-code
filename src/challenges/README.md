@@ -1,5 +1,7 @@
 # Challenges Module
 
+*Last Updated: 2025-12-29*
+
 Manages the story mode challenge system and unlockable content.
 
 ## Purpose

@@ -1,5 +1,7 @@
 # TTF Fonts
 
+*Last Updated: 2025-12-29*
+
 TrueType and OpenType font files for SuperTuxKart text rendering.
 
 ## Purpose

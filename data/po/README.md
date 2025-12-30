@@ -1,5 +1,7 @@
 # Localization Files
 
+*Last Updated: 2025-12-29*
+
 Translation files for SuperTuxKart's internationalization (i18n) system.
 
 ## Purpose

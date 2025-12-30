@@ -1,5 +1,7 @@
 # Audio Module
 
+*Last Updated: 2025-12-29*
+
 Manages all sound effects and music playback in SuperTuxKart.
 
 ## Purpose

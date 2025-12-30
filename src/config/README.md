@@ -1,5 +1,7 @@
 # Config Module
 
+*Last Updated: 2025-12-29*
+
 Handles user configuration, game settings, and player profile management.
 
 ## Purpose

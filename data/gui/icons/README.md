@@ -1,5 +1,7 @@
 # GUI Icon Assets
 
+*Last Updated: 2025-12-29*
+
 PNG image files used throughout the SuperTuxKart user interface.
 
 ## Purpose

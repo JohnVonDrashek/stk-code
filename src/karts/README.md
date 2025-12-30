@@ -1,5 +1,7 @@
 # Karts Module
 
+*Last Updated: 2025-12-29*
+
 Kart properties, models, physics, and behavior management.
 
 ## Purpose

@@ -1,5 +1,7 @@
 # utils
 
+*Last Updated: 2025-12-29*
+
 Common utility classes and functions used throughout SuperTuxKart.
 
 ## Purpose

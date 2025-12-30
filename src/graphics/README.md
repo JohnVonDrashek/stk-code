@@ -1,5 +1,7 @@
 # Graphics Module
 
+*Last Updated: 2025-12-29*
+
 Core graphics engine providing a thin layer on top of Irrlicht with STK-specific features.
 
 ## Purpose

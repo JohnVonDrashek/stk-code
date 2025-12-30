@@ -1,5 +1,7 @@
 # Screen Layout Files
 
+*Last Updated: 2025-12-29*
+
 Full-screen menu layouts for SuperTuxKart's user interface.
 
 ## Purpose

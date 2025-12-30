@@ -1,5 +1,7 @@
 # Game Data and Assets
 
+*Last Updated: 2025-12-29*
+
 Core game assets, configuration files, and resources for SuperTuxKart.
 
 ## Purpose

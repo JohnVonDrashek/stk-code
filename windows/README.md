@@ -1,5 +1,7 @@
 # Windows Build Files
 
+*Last Updated: 2025-12-29*
+
 Windows-specific resources for building and packaging SuperTuxKart.
 
 ## Purpose

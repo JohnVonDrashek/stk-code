@@ -1,5 +1,7 @@
 # Shader Utilities
 
+*Last Updated: 2025-12-29*
+
 Shared GLSL functions and includes for SuperTuxKart shaders.
 
 ## Purpose

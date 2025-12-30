@@ -1,5 +1,7 @@
 # Shaders
 
+*Last Updated: 2025-12-29*
+
 GLSL shaders for SuperTuxKart's rendering pipeline.
 
 ## Purpose

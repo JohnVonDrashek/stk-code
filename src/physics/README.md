@@ -1,5 +1,7 @@
 # Physics Module
 
+*Last Updated: 2025-12-29*
+
 Bullet physics integration for kart dynamics and world collision.
 
 ## Purpose

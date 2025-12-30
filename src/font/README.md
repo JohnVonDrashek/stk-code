@@ -1,5 +1,7 @@
 # Font Module
 
+*Last Updated: 2025-12-29*
+
 Manages font loading, text shaping, and character rendering.
 
 ## Purpose

@@ -1,5 +1,7 @@
 # IO Module
 
+*Last Updated: 2025-12-29*
+
 Generic utility classes for file I/O and path management.
 
 ## Purpose

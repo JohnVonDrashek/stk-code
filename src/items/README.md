@@ -1,5 +1,7 @@
 # Items Module
 
+*Last Updated: 2025-12-29*
+
 Collectible items, powerups, and projectile management for SuperTuxKart.
 
 ## Purpose

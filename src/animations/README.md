@@ -1,5 +1,7 @@
 # Animations Module
 
+*Last Updated: 2025-12-29*
+
 Manages interpolation-based animations for position, rotation, and scale.
 
 ## Purpose

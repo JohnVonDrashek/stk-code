@@ -1,5 +1,7 @@
 # states_screens
 
+*Last Updated: 2025-12-29*
+
 User interface screens and dialogs for SuperTuxKart's menu system.
 
 ## Purpose

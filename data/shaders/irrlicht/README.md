@@ -1,5 +1,7 @@
 # Irrlicht Shaders
 
+*Last Updated: 2025-12-29*
+
 OpenGL ES 2.0 shaders for legacy and mobile rendering.
 
 ## Purpose

@@ -1,5 +1,7 @@
 # GUI Engine Module
 
+*Last Updated: 2025-12-29*
+
 Generic GUI framework providing widgets, screens, skins, and event handling for SuperTuxKart.
 
 ## Purpose

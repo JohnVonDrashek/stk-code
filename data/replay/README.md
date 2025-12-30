@@ -1,5 +1,7 @@
 # Ghost Replay Recordings
 
+*Last Updated: 2025-12-29*
+
 Pre-recorded race replays used for ghost mode and benchmarking.
 
 ## Purpose

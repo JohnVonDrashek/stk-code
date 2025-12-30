@@ -1,5 +1,7 @@
 # Grand Prix
 
+*Last Updated: 2025-12-29*
+
 Grand Prix series definitions that group multiple tracks into championship races.
 
 ## Purpose

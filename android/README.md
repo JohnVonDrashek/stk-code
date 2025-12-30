@@ -1,5 +1,7 @@
 # Android Build Files
 
+*Last Updated: 2025-12-29*
+
 Build scripts and configuration for compiling SuperTuxKart for Android devices.
 
 ## Purpose

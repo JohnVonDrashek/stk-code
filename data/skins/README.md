@@ -1,5 +1,7 @@
 # Skins
 
+*Last Updated: 2025-12-29*
+
 UI themes and visual styles for SuperTuxKart's menu system.
 
 ## Purpose

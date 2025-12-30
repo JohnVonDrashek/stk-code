@@ -1,5 +1,7 @@
 # Documentation
 
+*Last Updated: 2025-12-29*
+
 Technical documentation for SuperTuxKart developers and content creators.
 
 ## Purpose

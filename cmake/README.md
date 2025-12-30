@@ -1,5 +1,7 @@
 # CMake Modules
 
+*Last Updated: 2025-12-29*
+
 Custom CMake modules for finding dependencies and cross-compilation toolchains.
 
 ## Purpose

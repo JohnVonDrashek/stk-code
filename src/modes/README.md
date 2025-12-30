@@ -1,5 +1,7 @@
 # Modes Module
 
+*Last Updated: 2025-12-29*
+
 Game mode logic for races, battles, and other gameplay types.
 
 ## Purpose

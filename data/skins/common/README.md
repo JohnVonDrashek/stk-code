@@ -1,5 +1,7 @@
 # Common Skin Assets
 
+*Last Updated: 2025-12-29*
+
 Shared UI assets used across multiple SuperTuxKart themes.
 
 ## Purpose

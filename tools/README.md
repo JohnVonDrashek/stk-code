@@ -1,5 +1,7 @@
 # Development Utilities
 
+*Last Updated: 2025-12-29*
+
 Scripts and tools for building, testing, and maintaining SuperTuxKart.
 
 ## Purpose

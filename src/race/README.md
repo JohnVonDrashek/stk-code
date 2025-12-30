@@ -1,5 +1,7 @@
 # Race Module
 
+*Last Updated: 2025-12-29*
+
 Race configuration, grand prix management, and highscore tracking.
 
 ## Purpose

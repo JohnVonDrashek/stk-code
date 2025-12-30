@@ -1,5 +1,7 @@
 # GE Shaders (Graphics Engine)
 
+*Last Updated: 2025-12-29*
+
 Modern shaders for SuperTuxKart's Vulkan-based Graphics Engine renderer.
 
 ## Purpose

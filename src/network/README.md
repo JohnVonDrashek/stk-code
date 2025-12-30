@@ -1,5 +1,7 @@
 # Network Module
 
+*Last Updated: 2025-12-29*
+
 Multiplayer networking infrastructure for LAN and WAN gameplay.
 
 ## Purpose

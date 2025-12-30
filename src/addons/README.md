@@ -1,5 +1,7 @@
 # Addons Module
 
+*Last Updated: 2025-12-29*
+
 Handles downloadable add-on content including tracks, karts, and arenas.
 
 ## Purpose

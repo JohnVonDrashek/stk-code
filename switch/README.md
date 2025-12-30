@@ -1,5 +1,7 @@
 # Nintendo Switch Port
 
+*Last Updated: 2025-12-29*
+
 Build scripts and resources for the Nintendo Switch homebrew port of SuperTuxKart.
 
 ## Purpose

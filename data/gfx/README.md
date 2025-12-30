@@ -1,5 +1,7 @@
 # GFX (Graphics Effects)
 
+*Last Updated: 2025-12-29*
+
 Particle system definitions for visual effects like explosions, smoke, and environmental particles.
 
 ## Purpose

@@ -1,5 +1,7 @@
 # Script Engine Module
 
+*Last Updated: 2025-12-29*
+
 AngelScript integration for track and cutscene scripting.
 
 ## Purpose

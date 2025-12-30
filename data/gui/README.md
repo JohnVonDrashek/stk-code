@@ -1,5 +1,7 @@
 # GUI Layout Files
 
+*Last Updated: 2025-12-29*
+
 User interface layout definitions for SuperTuxKart menus and dialogs.
 
 ## Purpose

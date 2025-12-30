@@ -1,5 +1,7 @@
 # Dialog Layout Files
 
+*Last Updated: 2025-12-29*
+
 Modal popup dialogs displayed over the main game screens.
 
 ## Purpose

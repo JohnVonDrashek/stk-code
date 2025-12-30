@@ -1,5 +1,7 @@
 # Online Module
 
+*Last Updated: 2025-12-29*
+
 HTTP request handling and online player profile management.
 
 ## Purpose

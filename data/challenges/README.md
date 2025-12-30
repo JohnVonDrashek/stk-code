@@ -1,5 +1,7 @@
 # Challenges
 
+*Last Updated: 2025-12-29*
+
 Game challenge definitions that unlock tracks, karts, and difficulty levels in Story Mode.
 
 ## Purpose

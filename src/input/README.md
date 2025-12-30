@@ -1,5 +1,7 @@
 # Input Module
 
+*Last Updated: 2025-12-29*
+
 Input management system handling keyboard, gamepad, touch, and Wiimote devices.
 
 ## Purpose

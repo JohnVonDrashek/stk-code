@@ -1,5 +1,7 @@
 # Achievements Module
 
+*Last Updated: 2025-12-29*
+
 Manages player achievements, tracking progress and completion status.
 
 ## Purpose
